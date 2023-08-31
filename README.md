@@ -3,7 +3,7 @@ MIPS (Microprocessor without Interlocked Pipelined Stages) is a family of reduce
 
 Refer to this book for a better understanding of how this code works. 
 
-I used the QuestaSim simulation environment to simulate the operation of the designed device and VIVADO for evaluating the Synthesis design.
+I used the QuestaSim simulation environment to simulate the operation of the designed device and VIVADO for evaluating the RTL and the Synthesis design.
 
 Supported instructions:
 - ADD
