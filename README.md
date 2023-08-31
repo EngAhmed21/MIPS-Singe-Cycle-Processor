@@ -22,7 +22,7 @@ The structure of machine codes for processor instructions — MIPS instructions 
   Processor Structure:
   ![Screenshot (494)](https://github.com/EngAhmed21/MIPS-Singe-Cycle-Processor/assets/90782588/fd2dfd57-3fb0-4c51-93ec-52e64db256e1)
 
-Simulation result for Program1_Machine_Code (GDC of 240 and 210) in QuestaSim:
+Simulation result for Program1_Machine_Code (GCD of 240 and 210) in QuestaSim:
 ![Program1](https://github.com/EngAhmed21/MIPS-Singe-Cycle-Processor/assets/90782588/fcda08b9-2ab2-4eef-a86e-a0017903fba3)
 
 Simulation result for Program2_Machine_Code (Factorial of 8 (8!)) in QuestaSim:
